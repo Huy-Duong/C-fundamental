@@ -1,0 +1,6 @@
+Hàm và con trỏ:
+Hàm:
+Nguyên mẫu của hàm:
+Dòng đầu tiên khai báo tên hàm và các đối;
+Quy tắc xây dựng hàm:
+Các hàm có thứ tự ngang nhau, không được xây dựng hàm này trong hàm khác.

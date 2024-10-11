@@ -1,0 +1,22 @@
+Các toán tử điều khiển: giúp điều khiển thứ tự câu lệnh thực hiện.
+3 nhóm:
+-nhảy ko điều kiện (goto)
+-rẽ nhánh
+if, switch
+có thể lồng nhau nested các lệnh if trong nhau
+trong switch máy có thể làm tất cả các câu lệnh, cho đến khi gặp break, goto, return
++toán tử goto
+chỉ có thể nhảy từ vị trí này sang vị trí khác trong thân 1 hàm
+tạo ra 1 chu trình ( lặp ) nhờ goto
++Nhãn: gán 1 câu lệnh(có dấu : sau tên nhãn) vd tiep_tuc: s+=2;
+-lặp
+for
+luôn phải có dấu ; dù vắng mặt các biểu thức đầu vào
+biểu thức 2 sẽ luôn được cho là đúng nếu vắng mặt
+còn viết được dãy biểu thức cách nhau bởi dấu ,
+
+while
+ta có thể viết 1 dãy các biểu thức điều kiện. Tính đúng sai của dãy là tính đúng sai của biểu thức cuối cùng trong dãy.
+
+continue
+không áp dụng cho switch

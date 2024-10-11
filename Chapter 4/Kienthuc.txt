@@ -1,0 +1,8 @@
+\n xuống dòng mới
+\t dấu tab
+\' thành dấu đó ( giống LaTex)
+fw: dãy số nguyên xác định độ rộng tối thiểu cho trường ra
+nếu fw lớn hơn: sẽ có khoảng trống hoặc số không
+nếu fw nhỏ hơn: sẽ = độ dài thực tế của trường
+.pp: xác định độ chính xác thập phân đưa ra của số thực 
+* tương ứng với độ dài tương ứng của trường
